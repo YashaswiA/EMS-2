@@ -1,9 +1,9 @@
 .loginPage{
-    background: url('Images/emsimage.jpeg');
+    background: url('public/Images/emsimage.jpeg');
     background-position: center;
     background-repeat: no-repeat;
     background-size: 100% 120%;
-    background: linear-gradient(rgba(11,11,11,0.5),rgba(10,10,10,0.5)),url("Images/emsimage.jpeg");
+    background: linear-gradient(rgba(11,11,11,0.5),rgba(10,10,10,0.5)),url("public/Images/emsimage.jpeg");
 }
 .loginForm{
     background-color:rgba(13, 29, 59, 0.9);
@@ -42,7 +42,7 @@
 
 .employeePage {
     background-color: rgb(133, 135, 135);
-    /* background: url("Images/employeeprf.jpg"); Adjust the path accordingly */
+    /* background: url("public/Images/employeeprf.jpg"); Adjust the path accordingly */
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover; /* Use 'cover' to make the background cover the entire container */
